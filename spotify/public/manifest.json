@@ -1,0 +1,26 @@
+{
+  "id": "spotify",
+  "isAudioSource": true,
+  "isScreenSaver": false,
+  "isWebApp": true,
+  "isLocalApp": false,
+  "requires": [],
+  "label": "Spotify App",
+  "version": "0.10.1",
+  "version_code": "10.1",
+  "compatible_server": [
+    "10"
+  ],
+  "compatible_client": [
+    "10"
+  ],
+  "description": "The primary way to interact with spotify",
+  "author": "Annabxlla",
+  "platforms": [
+    "windows",
+    "linux",
+    "macos"
+  ],
+  "homepage": "deskthing.app",
+  "repository": "https://github.com/ItsRiprod/Deskthing-Apps"
+}

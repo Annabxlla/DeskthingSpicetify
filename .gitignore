@@ -1,0 +1,31 @@
+# Ignore node_modules directories in all subfolders
+**/node_modules/
+
+# Ignore output directories in all subfolders
+**/dist/
+**/build/
+**/out/
+
+# Ignore log files in all subfolders
+**/*.log
+
+# Ignore environment variable files
+**/.env
+
+# Ignore coverage directories
+**/coverage/
+
+# Ignore temporary files
+**/*.tmp
+**/*.temp
+
+# Ignore IDE specific files
+**/.vscode/
+**/.idea/
+
+# Ignore all files in the ./bridge/ directory except for specific ones
+/bridge/*
+!/bridge/index.ts
+!/bridge/package-lock.json
+!/bridge/package.json
+!/bridge/test.ts
