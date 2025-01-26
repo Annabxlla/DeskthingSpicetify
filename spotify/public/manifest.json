@@ -5,9 +5,9 @@
   "isWebApp": true,
   "isLocalApp": false,
   "requires": [],
-  "label": "Spotify App",
-  "version": "0.10.1",
-  "version_code": "10.1",
+  "label": "Spicetify App",
+  "version": "0.10.3",
+  "version_code": "10.3",
   "compatible_server": [
     "10"
   ],
@@ -15,7 +15,7 @@
     "10"
   ],
   "description": "The primary way to interact with spotify",
-  "author": "Annabxlla",
+  "author": "Annabxlla, ItsRiprod",
   "platforms": [
     "windows",
     "linux",
